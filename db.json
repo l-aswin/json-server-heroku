@@ -2,15 +2,25 @@
   "posts":[
     {
       "id" : 0,
-      "title": "First post!",
+      "title": "Aswin First post!",
       "content" : "My first content!"
-    }
+    },
+    {
+      "id" : 1,
+      "title": "Aswin Second post!",
+      "content" : "My second content!"
+    }    
   ],
   "comments" : [
     {
       "id": 0,
-      "content": "Wow such content!",
+      "content": "Wow such first content!",
       "username": "zero_cool"
-    }
+    },
+    {
+      "id": 1,
+      "content": "Wow such second content!",
+      "username": "zero_cool"
+    }    
   ]
 }
